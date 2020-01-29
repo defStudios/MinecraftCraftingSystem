@@ -1,5 +1,5 @@
-# MinecraftCraftingSystem
-Minecraft Crafting System on Unity 2019 / Система Крафта из Minecraft на Unity
+п»ї# MinecraftCraftingSystem
+Minecraft Crafting System on Unity 2019 / РЎРёСЃС‚РµРјР° РљСЂР°С„С‚Р° РёР· Minecraft РЅР° Unity
 
-Tutorial / Урок: https://youtu.be/unOkhtMZZQ8
+Tutorial / РЈСЂРѕРє: https://youtu.be/unOkhtMZZQ8
 
